@@ -3,10 +3,9 @@ import base64
 import openai
 import pptx
 from pptx.util import Inches, Pt
-from key import openai_API
 
 
-openai.api_key = "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"
+openai.api_key = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx" # Put your openai API key here
 # Define custom formatting options
 TITLE_FONT_SIZE = Pt(30)
 SLIDE_FONT_SIZE = Pt(16)
