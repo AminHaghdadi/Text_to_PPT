@@ -7,6 +7,7 @@
 This app uses artificial intelligence (AI) to generate PowerPoint presentations from a given topic. It is built using Streamlit, a Python framework for building web apps, and uses the following AI models:
 
 GPT-3.5-turbo-instruct to generate slide titles
+
 text-davinci-003 to generate slide content
 
 To use the app, simply enter your topic and click the "Generate Presentation" button. The app will then generate a short PowerPoint presentation with 3 slides. The slides will be titled and formatted in a professional manner, and the content will be informative and engaging.
