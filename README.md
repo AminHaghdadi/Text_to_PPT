@@ -16,6 +16,7 @@ This app is a great tool for anyone who needs to create presentations quickly an
 
 ![Alt text](<Screenshot 2023-10-03 104745.png>)
 
+Example PPT: [Large Language Models_presentation.pptx](https://github.com/AminHaghdadi/Text_to_PPT/files/12803059/Large.Language.Models_presentation.pptx)
 
 ## Deployment
 
